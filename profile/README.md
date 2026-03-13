@@ -2,8 +2,6 @@
 
 Building **[Nous](https://github.com/orthogonalhq/nous-core)** — an operating system for sovereign intelligence.
 
-Foundation models are commodity inputs. The architecture is the value layer.
-
 ---
 
 Nous is a local-first AI operating system with a four-layer cognitive architecture modeled on the human mind. It composes models into persistent, self-improving, governed intelligence — routing tasks to the right model, learning from outcomes, enforcing governance boundaries, and compounding knowledge across everything it touches.
